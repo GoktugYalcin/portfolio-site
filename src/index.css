@@ -197,4 +197,9 @@ textarea {
   .cd-timeline-img {
     left: -2px !important;;
   }
+
+  .bottom-rocket {
+    margin-top: -78px !important;
+    float: right !important;
+  }
 }
