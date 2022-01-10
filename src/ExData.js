@@ -1,14 +1,14 @@
 const workHistory = [
     {
-        companyName : 'Sakarya University VR Lab',
-        role: 'Intern',
-        duration: "June'19 – July'19",
+        companyName: "Next4biz",
+        role: 'Frontend Developer',
+        duration: "Sep'21 – ?",
         workDes: [
-            'Built IOT Apps with Python and Raspberry Pi.',
-            'Also worked on Socket Communication on C and C++.',
+            'Working on CRM app with React, VanillaJs and SCSS',
+            'Using great NPM packages like Moment, Yup, React-Hook-Form',
         ],
-        exposer: ["Raspberry Pi", "Arduino ", "C", "C++", "Python", "Firebase"] ,
-        link: 'https://www.sakarya.edu.tr/',
+        exposer: ["React ", "VanillaJs", "SCSS", "Axios"],
+        link: 'https://www.next4biz.com/tr/',
     },
     {
         companyName: 'Netuce',
@@ -22,16 +22,16 @@ const workHistory = [
         link: 'https://netuce.com/',
     },
     {
-        companyName: "Next4biz",
-        role: 'Frontend Developer',
-        duration: "Sep'21 – ?",
+        companyName : 'Sakarya University VR Lab',
+        role: 'Intern',
+        duration: "June'19 – July'19",
         workDes: [
-            'Working on CRM app with React, VanillaJs and SCSS',
-            'Maintained code base of girls script official & Kurroku project',
+            'Built IOT Apps with Python and Raspberry Pi.',
+            'Also worked on Socket Communication on C and C++.',
         ],
-        exposer: ["React ", "VanillaJs", "SCSS", "Axios"],
-        link: 'https://www.next4biz.com/tr/',
-    },
+        exposer: ["Raspberry Pi", "Arduino ", "C", "C++", "Python", "Firebase"] ,
+        link: 'https://www.sakarya.edu.tr/',
+    }
 ];
 
 export default workHistory;

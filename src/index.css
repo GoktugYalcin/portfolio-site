@@ -182,6 +182,7 @@ textarea {
     display: flex;
     max-width: 100%;
     overflow: overlay;
+    overflow-y: hidden;
     justify-content: flex-start;
   }
 
